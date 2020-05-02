@@ -7,7 +7,6 @@ OSchool is an open source platform for educational institutions and schools to m
 Our vision is to create a standard infrastructure for all educational institutions so that in the near future, better things will happen based on this platform.
 
 ## Module Architecture
-![OSchool Module Architecture](images/architecture/fa.png  "Module Architecture")
 <p align="center"><img src="images/architecture/fa.png"></p>
 
 ## Contact Us
