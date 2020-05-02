@@ -1,5 +1,5 @@
 # OSchool
-<p align="center">![OSchool Logo](https://github.com/OSchool-World/oschool/tree/master/images/logo/logo200.png "OSchool")</p> 
+<p align="center">![OSchool Logo](https://raw.githubusercontent.com/OSchool-World/oschool/master/images/logo/logo200.png "OSchool")</p> 
 
 ## About OSchool
 OSchool is an open source platform for educational institutions and schools to manage all processes.
@@ -7,7 +7,7 @@ OSchool is an open source platform for educational institutions and schools to m
 Our vision is to create a standard infrastructure for all educational institutions so that in the near future, better things will happen based on this platform.
 
 ## Module Architecture
-<p align="center">![OSchool Module Architecture](https://github.com/OSchool-World/oschool/tree/master/images/architecture/fa.png  "Module Architecture")</p>
+<p align="center">![OSchool Module Architecture](https://raw.githubusercontent.com/OSchool-World/oschool/master/images/architecture/fa.png  "Module Architecture")</p>
 
 ## Contact Us
 To contact us, please send an email to the following address:
